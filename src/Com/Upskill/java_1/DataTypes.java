@@ -10,7 +10,7 @@ public class DataTypes {
  			2. non-primitive : Not defined by java (Class, Array, Object)
  
  */
-		int a = 50;
+		int a = 65;
 		int b = 100;
 		int c = a + b;
 		System.out.println(c);
