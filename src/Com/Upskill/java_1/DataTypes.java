@@ -11,7 +11,7 @@ public class DataTypes {
  
  */
 		int a = 65;
-		int b = 100;
+		int b = 105;
 		int c = a + b;
 		System.out.println(c);
 		String city = "Newyork";
