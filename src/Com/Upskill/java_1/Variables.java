@@ -21,7 +21,7 @@ public class Variables {
 		String city = "New York";					//Local variables - variables declared in methods
 		System.out.println(city);
 		String police = "NYPD";
-		int zipcode = 10075;
+		int zipcode = 10085;
 		
 		Variables object = new Variables();
 		System.out.println(object.country);
