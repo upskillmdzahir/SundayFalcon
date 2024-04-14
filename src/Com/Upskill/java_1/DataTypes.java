@@ -1,4 +1,4 @@
-package Com.Upskill.java_1;
+ package Com.Upskill.java_1;
 
 public class DataTypes {
 
