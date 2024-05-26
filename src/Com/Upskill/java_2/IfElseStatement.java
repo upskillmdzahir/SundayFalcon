@@ -1,4 +1,4 @@
-package Com.Upskill.java_2;
+ package Com.Upskill.java_2;
 //If the dataset is  broad and unknown. start with if then continues by if else if else and finally else
 public class IfElseStatement {
 

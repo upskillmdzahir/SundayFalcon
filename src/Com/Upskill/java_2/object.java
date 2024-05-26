@@ -33,4 +33,4 @@ public class object {
 >Class can't communicate with another class but object can
 >By creating instances 2 class can communicate 
 
->>>A constructor in java is a special method within a class responsible for initializing the state of an object during it's creation*/
+>>>A constructor in java is a special method within a class, responsible for initializing the state of an object during it's creation*/

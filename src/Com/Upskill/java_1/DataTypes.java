@@ -6,8 +6,8 @@ public class DataTypes {
 		System.out.println("Hello World, This is Zahir");
 		
 /*		There are two datatypes in java variables:
- 			1. primitive: Pre-define by java (int, short, long, byte, float, double boolean)
- 			2. non-primitive : Not defined by java (Class, Array, Object)
+ 			1. primitive: Pre-define by java (int, short, long, byte, float, double, boolean)
+ 			2. non-primitive : Not defined by java (Class, Array, Object, Hashmap, Hashtable, Hashset, interface, abstract class,)
  
  */
 		int a = 55;
