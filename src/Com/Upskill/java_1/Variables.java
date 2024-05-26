@@ -5,9 +5,9 @@ public class Variables {
 	// Variables are used as containers to hold values (int, long, string…) during the life cycle of an application. In short, Variable is a name of memory location.
 	
 	
-	//Instance OR Global variables (Belongs/global to Class) - Variables declared in Class level, outside method
-	//Static variables -  (belongs to class if non-static then need to call it through object))variables belong to class and don't required creating object
+	//Global or Instance variables (Belongs/global to Class) - Variables declared in Class level, outside method
 	//Local variables (Belongs/Global to the method)- variables declared in methods
+	//Static variables -  (belongs to class if non-static then need to call it through object))variables belong to class and don't required creating object
 	//Method parameter(it passes data outside to inside) - variables used as method parameter
 	
 	
@@ -21,7 +21,7 @@ public class Variables {
 		String city = "New York";					//Local variables - variables declared in methods
 		System.out.println(city);
 		String police = "NYPD";
-		int zipcode = 10075;
+		int zipcode = 10085;
 		
 		Variables object = new Variables();
 		System.out.println(object.country);

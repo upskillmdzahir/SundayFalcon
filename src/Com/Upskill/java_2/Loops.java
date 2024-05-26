@@ -17,7 +17,7 @@ public class Loops {
 	}
 	
 	//For Loop
-	public static void practiceForLoop() {						//For loop - Do again and agian upper limit
+	public static void practiceForLoop() {						//For loop - Do again and again until it reaches to upper limit
 	for(int i = 1; i <= 10; i++) {								//Initialize the variable; Setting lower limit, Upper limit, Increment or Decrement
 		System.out.println("For Loop number =  " + i); 			//Statement
 	}

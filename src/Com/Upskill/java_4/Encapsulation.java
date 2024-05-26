@@ -2,6 +2,7 @@ package Com.Upskill.java_4;
 
 public class Encapsulation {
 	//Encapsulation used to hide the data using setter and getter method
+	//Whereas Abstraction used to hide the implementation
 	
 	private String name = "Zack";					//Read & Write
 	private int mobileNumber = 907598990;			//Retrieve, Read only

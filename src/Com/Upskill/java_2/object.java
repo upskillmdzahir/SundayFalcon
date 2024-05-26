@@ -23,7 +23,7 @@ public class object {
 }
 /*Class
 	-Blue print that object follows
-	-A blueprint for creating onjects
+	-A blueprint for creating objects
  Object
 	-Real world Entity
 	-An instance of a class
@@ -31,4 +31,6 @@ public class object {
 
 
 >Class can't communicate with another class but object can
->By creating instances 2 class can communicate */
+>By creating instances 2 class can communicate 
+
+>>>A constructor in java is a special method within a class, responsible for initializing the state of an object during it's creation*/
